@@ -1,0 +1,31 @@
+.main-container {
+    max-width:1280px;
+    min-width:320px;
+    margin:0 auto;
+    background: #2A2C2F;
+    font-family: 'Inter';
+}
+
+@media screen and (max-width: 1279px) {
+    .main {
+        max-width:1024px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .main {
+        max-width:768px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .main {
+        max-width:768px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .main {
+        max-width:320px;
+    }
+}
