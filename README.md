@@ -1,6 +1,8 @@
 # Путешествия по России
 Russian-Travel project
 
+### вот ссылка на проект:
+[https://sonny-mooore.github.io/russian-travel/]
 
 ___Интро___:<br/>
 было сложно, особенно с гридами, но с практикой все усвоилось  
