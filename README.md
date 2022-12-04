@@ -2,7 +2,7 @@
 Russian-Travel project<br/>
 
 ### ссылка на проект:
-[https://ozzis.github.io/russian-travel/index.html] 
+[https://sonny-mooore.github.io/russian-travel/] 
 
 ___Интро___:<br/>
 было сложно, особенно с гридами, но с практикой все усвоилось  
