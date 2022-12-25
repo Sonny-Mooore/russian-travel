@@ -1,27 +1,27 @@
 .cover {
-        margin:92px 48px 0 48px;
-        display: flex;
-        height: 740px;
-        position: relative;
+    margin: 92px 48px 0 48px;
+    display: flex;
+    height: 740px;
+    position: relative;
 }
 
 @media screen and (max-width: 1279px) {
-        .cover{
-                margin:92px 0 0 0;
-                height: 640px;
-        }
+    .cover {
+        margin: 92px 0 0 0;
+        height: 640px;
+    }
 }
 
 @media screen and (max-width: 1023px) {
-        .cover{
-                margin:90px 0 0 0;
-                height: 480px;
-        }
+    .cover {
+        margin: 90px 0 0 0;
+        height: 480px;
+    }
 }
 
 @media screen and (max-width: 767px) {
-        .cover{
-                margin:66px 0 0 0;
-                height:200px;
-        }
+    .cover {
+        margin: 66px 0 0 0;
+        height: 200px;
+    }
 }

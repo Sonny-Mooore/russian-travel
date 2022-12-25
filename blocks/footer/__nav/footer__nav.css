@@ -1,7 +1,7 @@
 .footer__nav {
     display: grid;
     grid-template-areas: 'link link link link link' 'copyright';
-    grid-template-columns:repeat(5,min-content) 2fr;
+    grid-template-columns:repeat(5, min-content) 2fr;
     justify-content: space-between;
 }
 
